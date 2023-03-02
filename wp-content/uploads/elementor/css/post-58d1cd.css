@@ -1,0 +1,55 @@
+.elementor-58 .elementor-element.elementor-element-3f220b8b:not(.elementor-motion-effects-element-type-background), .elementor-58 .elementor-element.elementor-element-3f220b8b > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#02010100;}.elementor-58 .elementor-element.elementor-element-3f220b8b > .elementor-background-overlay{background-color:#02010105;opacity:0.5;transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-58 .elementor-element.elementor-element-3f220b8b{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;margin-top:0px;margin-bottom:0px;}.elementor-58 .elementor-element.elementor-element-5f2928c3 > .elementor-element-populated{padding:0px 0px 0px 0px;}.elementor-58 .elementor-element.elementor-element-32b1c7d .elementor-menu-toggle{margin:0 auto;}.elementor-58 .elementor-element.elementor-element-32b1c7d .elementor-nav-menu .elementor-item{font-family:"Axiforma", Sans-serif;font-size:16px;font-weight:600;text-transform:capitalize;line-height:1.2em;}.elementor-58 .elementor-element.elementor-element-32b1c7d .elementor-nav-menu--dropdown a:hover,
+					.elementor-58 .elementor-element.elementor-element-32b1c7d .elementor-nav-menu--dropdown a.elementor-item-active,
+					.elementor-58 .elementor-element.elementor-element-32b1c7d .elementor-nav-menu--dropdown a.highlighted,
+					.elementor-58 .elementor-element.elementor-element-32b1c7d .elementor-menu-toggle:hover{color:var( --e-global-color-284b516 );}.elementor-58 .elementor-element.elementor-element-32b1c7d .elementor-nav-menu--dropdown a:hover,
+					.elementor-58 .elementor-element.elementor-element-32b1c7d .elementor-nav-menu--dropdown a.elementor-item-active,
+					.elementor-58 .elementor-element.elementor-element-32b1c7d .elementor-nav-menu--dropdown a.highlighted{background-color:var( --e-global-color-accent );}.elementor-58 .elementor-element.elementor-element-32b1c7d .elementor-nav-menu--dropdown .elementor-item, .elementor-58 .elementor-element.elementor-element-32b1c7d .elementor-nav-menu--dropdown  .elementor-sub-item{font-family:"Axiforma", Sans-serif;font-size:16px;font-weight:600;text-transform:capitalize;}@media(max-width:767px){.elementor-58 .elementor-element.elementor-element-32b1c7d .elementor-nav-menu .elementor-item{font-size:25px;}}/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Axiforma';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('../../../../Users/rashmitpradhan/Downloads/files/Kastelov%20-%20Axiforma%20Regular.html') format('woff2');
+}
+@font-face {
+	font-family: 'Axiforma';
+	font-style: normal;
+	font-weight: bold;
+	font-display: auto;
+	src: url('../../../../Users/rashmitpradhan/Downloads/files/Kastelov%20-%20Axiforma%20Bold.html') format('woff2');
+}
+@font-face {
+	font-family: 'Axiforma';
+	font-style: normal;
+	font-weight: 900;
+	font-display: auto;
+	src: url('../../../../Users/rashmitpradhan/Downloads/files/Kastelov%20-%20Axiforma%20ExtraBold.html') format('woff2');
+}
+@font-face {
+	font-family: 'Axiforma';
+	font-style: normal;
+	font-weight: 100;
+	font-display: auto;
+	src: url('../../../../Users/rashmitpradhan/Downloads/files/Kastelov%20-%20Axiforma%20Thin.html') format('woff2');
+}
+@font-face {
+	font-family: 'Axiforma';
+	font-style: normal;
+	font-weight: 200;
+	font-display: auto;
+	src: url('../../../../Users/rashmitpradhan/Downloads/files/Kastelov%20-%20Axiforma%20Italic.html') format('woff2');
+}
+@font-face {
+	font-family: 'Axiforma';
+	font-style: normal;
+	font-weight: 800;
+	font-display: auto;
+	src: url('../../../../Users/rashmitpradhan/Downloads/files/Kastelov%20-%20Axiforma%20Heavy.html') format('woff2');
+}
+@font-face {
+	font-family: 'Axiforma';
+	font-style: normal;
+	font-weight: 400;
+	font-display: auto;
+	src: url('../../../../Users/rashmitpradhan/Downloads/files/Kastelov%20-%20Axiforma%20Book.html') format('woff2');
+}
+/* End Custom Fonts CSS */
